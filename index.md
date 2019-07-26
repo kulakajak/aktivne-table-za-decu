@@ -16,7 +16,7 @@ layout: page
     <ul>
       <li>zvono za biciklo</li>
       <li>tasteri za uključivanje piezzo zvučnika</li>
-      <li>prekidači za paljenje i gašenje led sijalica</li>
+      <li>prekidači za paljenje i gašenje led sijalica, ventilatora i slično</li>
       <li>metalofon sa udaraljkom</li>
       <li>prozorčiči sa omiljenim crtanim likovima</li>
       <li>vratanca sa katancima</li>
@@ -25,6 +25,8 @@ layout: page
       <li>kanapi za vezanje čvorova</li>
       <li>uklapanje oblika</li>
       <li>mini fliper sa stono teniskim lopticama</li>
+      <li>spajanje sa Arduinom i ostalim elektronskim dodacima (robotska ruka, dizalica)
+      </li>
     </ul>
     <a href="/naruci/" class='btn btn-primary btn-block'>Naruči</a>
     <i>

@@ -15,11 +15,8 @@
 # in the templates via {{ site.myvariable }}.
 title: Aktivne senzorske table za decu
 author: >-
-  Ove proizvoe vam pruža:<br>
-  <b>Trk inovacije doo</b> Novi Sad<br>
-  Nova 3, broj 9, Novi Sad<br>
+  Sime Sarajlije 40, Novi Sad<br>
   Telefon <a href='tel:0637298539'>063 7298539</a>
-email: kontakt@trk.in.rs
 description: >- # this means to ignore newlines until "baseurl:"
   Aktivne table za decu, od prve do sedme godine, omogućavaju detetu da razvija
   svoje motoričke veštine. Mogućnost biranja elemenata vam obezbeđuje da je vaša

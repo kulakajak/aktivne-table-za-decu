@@ -23,10 +23,9 @@ description: >- # this means to ignore newlines until "baseurl:"
   tabla unikatna i jedinstvena za vaše dete. Postoji mogućnost i iznajmljivanja
   na određeni period.
 baseurl: "" # the subpath of your site, e.g. /blog
-url: "https://aktivne-senzorske-table-za-decu.trk.in.rs" # the base hostname & protocol for your site, e.g. http://example.com
+url: "https://aktivne-table-za-decu.trk.in.rs" # the base hostname & protocol for your site, e.g. http://example.com
 
 # Build settings
-markdown: kramdown
 theme: minima
 plugins:
   - jekyll-feed
@@ -37,6 +36,9 @@ google_analytics: UA-36706408-5
 # The following items will not be processed, by default. Create a custom list
 # to override the default setting.
 # exclude:
+#   - .sass-cache/
+#   - .jekyll-cache/
+#   - gemfiles/
 #   - Gemfile
 #   - Gemfile.lock
 #   - node_modules

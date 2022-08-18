@@ -7,6 +7,10 @@ layout: page
 <div class='row'>
   <div class='col-md'>
     <img src="/assets/aktivna senzorska montesori tabla za decu.jpg" alt="Aktivna senzorska montesori tabla za decu" title="Aktivna senzorska montesori tabla za decu">
+    <video width="320" height="240" controls autoplay loop>
+      <source src='/assets/arduino-book.webm' type="video/webm">
+      <source src='/assets/arduino-book.mp4' type="video/mp4">
+    </video>
   </div>
   <div class='col-md'>
     <h3>
@@ -24,8 +28,9 @@ layout: page
       <li>peščani sat</li>
       <li>kanapi za vezanje čvorova</li>
       <li>uklapanje oblika</li>
-      <li>mini fliper sa stono teniskim lopticama</li>
-      <li>spajanje sa Arduinom i ostalim elektronskim dodacima (robotska ruka, dizalica)
+      <li>mini fliper sa stono-teniskim lopticama</li>
+      <li>dizalica</li>
+      <li>spajanje sa Arduinom i ostalim elektronskim dodacima (robotska ruka)
       </li>
     </ul>
     <a href="/naruci/" class='btn btn-primary btn-block'>Naruči</a>
